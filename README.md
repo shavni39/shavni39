@@ -20,8 +20,8 @@
 
 ### 🔹 Number Gussing Game
 -Generates a random number for the player to guess
-Provides hints (Too High, Too Low, Correct Guess)
-Tracks the number of attempts and displays the result 
+-Provides hints (Too High, Too Low, Correct Guess)
+-Tracks the number of attempts and displays the result 
 
 👉 More projects coming soon...
 
