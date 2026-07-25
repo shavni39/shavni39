@@ -1,16 +1,22 @@
-## Hi there 👋
+👋 Hi, I'm Karan Kumar
+🚀 About Me
+Java Developer focused on building real-world projects
+Strong understanding of OOP and ArrayList concepts
+Currently learning Data Structures & Problem Solving
+Open to Internship Opportunities
+🛠 Tech Stack
+Java
+OOP
+ArrayList
+Basic DSA
+📌 Projects
+🔹 Student Management System (Java)
+Add, Update, Search, Delete Students
+Built using ArrayList and OOP concepts
+Includes input validation
+👉 More projects coming soon...
 
-<!--
-**shavni39/shavni39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Connect With Me
+LinkedIn: https://www.linkedin.com/in/shavni-developer/
+Email: shavni39@gmail.com
+LeetCode: https://leetcode.com/u/shavni39/
